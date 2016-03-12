@@ -8,4 +8,4 @@ syntax enable
 hi Normal ctermbg=NONE
 set mouse=a  
 set selection=exclusive  
-"set selectmode=mouse,key
+set selectmode=mouse,key
